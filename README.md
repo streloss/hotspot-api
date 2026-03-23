@@ -1,7 +1,7 @@
 # 📍 Hotspot API
 
 ## Загрузка
-loadstring(game:HttpGet("https://raw.githubusercontent.com/НИК/hotspot-api/main/hotspot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/streloss/hotspot-api/main/hotspot.lua"))()
 
 ## Методы
 | Метод | Описание |
