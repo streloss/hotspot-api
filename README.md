@@ -1,5 +1,5 @@
-# 📍 Hotspot API
-
+# Hotspot API
+палка нига
 ## Загрузка
 loadstring(game:HttpGet("https://raw.githubusercontent.com/streloss/hotspot-api/main/hotspot.lua"))()
 
